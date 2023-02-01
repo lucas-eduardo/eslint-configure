@@ -5,10 +5,10 @@ module.exports = {
     node: true,
   },
   extends: [
+    "standard",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
     "plugin:prettier/recommended",
-    "standard",
   ],
   parser: "@typescript-eslint/parser",
   parserOptions: {
