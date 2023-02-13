@@ -2,7 +2,7 @@
   "name": "@lucaseduardoio/eslint-config",
   "version": "1.0.0",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "description": "Eslint's default configuration",
   "repository": {
     "url": "lucas-eduardo/eslint-configure"
