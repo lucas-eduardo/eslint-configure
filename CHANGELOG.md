@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/lucas-eduardo/eslint-configure/compare/v1.0.0...v1.0.1) (2023-02-13)
+
+
+### Bug Fixes
+
+* remove react vesion eslint ([07db284](https://github.com/lucas-eduardo/eslint-configure/commit/07db2841518e4a83f0f2079cbd2a366761aafddf))
+
 # 1.0.0 (2023-02-13)
 
 
