@@ -2,7 +2,6 @@
   "name": "@lucaseduardoio/eslint-config",
   "version": "1.0.0",
   "license": "MIT",
-  "private": true,
   "description": "Eslint's default configuration",
   "repository": {
     "url": "lucas-eduardo/eslint-configure"
@@ -16,6 +15,10 @@
   "contributors": [
     "Lucas Eduardo (https://github.com/lucas-eduardo)"
   ],
+  "author": "Lucas Eduardo",
+  "bugs": {
+    "url": "https://github.com/lucas-eduardo/eslint-configure/issues"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.50.0",
     "@typescript-eslint/parser": "^5.50.0",
