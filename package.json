@@ -1,12 +1,21 @@
 {
-  "name": "eslint-config-lucaseduardoio",
+  "name": "@lucaseduardoio/eslint-config",
   "version": "1.0.0",
   "license": "MIT",
-  "private": true,
-  "main": "index.js",
+  "private": false,
+  "description": "Eslint's default configuration",
   "repository": {
     "url": "lucas-eduardo/eslint-configure"
   },
+  "keywords": [
+    "eslint",
+    "configuration",
+    "react",
+    "node"
+  ],
+  "contributors": [
+    "Lucas Eduardo (https://github.com/lucas-eduardo)"
+  ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.50.0",
     "@typescript-eslint/parser": "^5.50.0",
@@ -24,5 +33,21 @@
   "peerDependencies": {
     "eslint": ">= ^8.33.0",
     "prettier": ">= 2.8.3"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.3",
+    "@commitlint/config-conventional": "^17.4.3",
+    "@semantic-release/changelog": "^6.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.3",
+    "license-generator": "^0.0.13",
+    "semantic-release": "^20.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
