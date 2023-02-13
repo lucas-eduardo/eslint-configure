@@ -1,5 +1,6 @@
 {
   "branches" : ["main"],
+  "repositoryUrl": "https://github.com/lucas-eduardo/eslint-configure",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
