@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/lucas-eduardo/eslint-configure/compare/v1.1.0...v1.1.1) (2023-08-01)
+
+
+### Bug Fixes
+
+* remove react-hooks lint next ([a24afb7](https://github.com/lucas-eduardo/eslint-configure/commit/a24afb7cfee878d1c8b2fd597f825d6349d97c09))
+
 # [1.1.0](https://github.com/lucas-eduardo/eslint-configure/compare/v1.0.2...v1.1.0) (2023-08-01)
 
 
