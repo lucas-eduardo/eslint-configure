@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/lucas-eduardo/eslint-configure/compare/v1.0.2...v1.1.0) (2023-08-01)
+
+
+### Features
+
+* add lint next ([e9a60df](https://github.com/lucas-eduardo/eslint-configure/commit/e9a60df6654a7080471f2319faa06a2911ca0abd))
+
 ## [1.0.2](https://github.com/lucas-eduardo/eslint-configure/compare/v1.0.1...v1.0.2) (2023-02-13)
 
 
