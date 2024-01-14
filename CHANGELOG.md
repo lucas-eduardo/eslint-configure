@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/lucas-eduardo/eslint-configure/compare/v1.1.1...v1.2.0) (2024-01-14)
+
+
+### Features
+
+* adjust eslint config ([c343e04](https://github.com/lucas-eduardo/eslint-configure/commit/c343e0450637b8d7937a43f9c4530396e879711f))
+
 ## [1.1.1](https://github.com/lucas-eduardo/eslint-configure/compare/v1.1.0...v1.1.1) (2023-08-01)
 
 
